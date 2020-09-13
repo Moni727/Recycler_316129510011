@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Recycler_316129510011</string>
+
+        <string-array name="titles">
+            <item>Golden Bangle</item>
+            <item>Gold Plated Diamond Necklace</item>
+            <item>Diamond Necklace</item>
+            <item>Diamond Gold Ring</item>
+            <item>Diamond Necklace</item>
+            <item>Gold Chain</item>
+            <item>Diamond Earrings</item>
+            <item>Gold Earrings</item>
+            <item>Pearl Necklace</item>
+            <item>Bracelet</item>
+        </string-array>
+
+
+
+
+</resources>
